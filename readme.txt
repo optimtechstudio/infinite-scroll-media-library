@@ -8,21 +8,21 @@ Tested up to: 5.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Enable infinite scroll in WordPress Media Library. Current Load More button will be replaced with the infinite scroll which can be toggled in admin settings also.
+Enable Infinite Scroll in WordPress Media Library. Current Load More button will be replaced with the Infinite Scroll which can be toggled in admin settings also.
 
 == Description ==
 
-Enable infinite scroll in WordPress Media Library. Current Load More button will be replaced with the infinite scroll which can be toggled in admin settings also.
+Enable Infinite Scroll in WordPress Media Library. Current Load More button will be replaced with the Infinite Scroll which can be toggled in admin settings also.
 
 #### Easy Integration
 
-Discovered no gap while integrating this plugin with current or Older WordPress.
+Discovered no gap while integrating this plugin with current or older WordPress.
 
 == Frequently Asked Questions ==
 
 =What is the need of Infinite Scroll?=
 
-Many users love the old version of infinite scroll in WordPress Media Library. So we thought of facilitating with the functionality which the users is comfortable with. Try our plugin and you can see the difference clearly.
+Many users love the old version of Infinite Scroll in WordPress Media Library. So we thought of facilitating with the functionality which the users is comfortable with. Try our plugin and you can see the difference clearly.
 
 =Will this break my WordPress website?=
 
@@ -30,12 +30,12 @@ Not at all. We have compiled this plugin with some sort of validations which wil
 
 =Will this plugin compromise the website performance?=
 
-Obviously not. This plugin is just replacing the functionality of How Media is Loading. The website performace will be same as it is.
+Obviously not. This plugin is just replacing the functionality of how media is loading. The website performace will be same as it is.
 
 =What if I want the Load More button back?=
 
 You can certainly do that. 
-Headover to Settings > Media Infinite Scroll. You will get an option to Enable / Disable the Infinite scroll functionality. 
+Headover to Settings > Media Infinite Scroll. You will get an option to Enable / Disable the Infinite Scroll functionality. 
 Select Disable for getting Load More button.
 Select Enable for getting Infinite Scroll.
 
@@ -43,7 +43,7 @@ Select Enable for getting Infinite Scroll.
 
 1. Settings Page with Enable Option
 2. Media Library with Infinite Scroll
-1. Settings Page with Diable Option
+1. Settings Page with Disable Option
 3. Media Library with Load More Button
 
 == Changelog ==
